@@ -1,0 +1,92 @@
+<<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+
+    <script type="text/javascript" src="http://186.234.253.81/library/jquery/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript">
+        $(function() {
+             var offset = $("#box").offset();
+             var topPadding = 15;
+             $(window).scroll(function() {
+                 if ($(window).scrollTop() > offset.top) {
+                     $("#box").stop().animate({
+                         marginTop: $(window).scrollTop() - offset.top + topPadding
+                     });
+                 } else {
+                     $("#box").stop().animate({
+                         marginTop: 0
+                     });
+                 };
+             });
+         });
+
+    </script>
+    <style type="text/css">
+        * { margin: 0; padding: 0; }
+        body { font: 14px/1.4 Verdana, Arial, sans-serif; font-weight: normal;background-color: #f2f2f2;float: left;width: 100%; color: #333333;}
+        #wrapper{width: 800px;margin: 0 auto;padding: 0px;}
+        #content{float: left;width: 100%;border: 1px solid #B5076D;background-color: #FFFFFF;font-size: 12px;line-height: 20px;}
+        #page-wrap {  position: relative;float: left; margin: 50px 0;}
+        h1{font-size: 1.6em;color: #B5076D; font-style: italic;padding: 20px;}
+        p { margin: 0 0 10px 0; }
+        #main { width: 460px; float: left; padding: 20px; background-color: #f1f1f1;border: 1px solid #DDDDDD; margin: 20px;display: inline;}
+        #sidebar { width: 215px; float: right;border: 1px solid #DDDDDD; background-color: #f1f1f1;margin: 20px; display: inline;}
+        #sidebar ul{padding: 10px;}
+        #sidebar ul li{font-size: 0.9em;margin: 0 0 0 20px;}
+        
+        #box{position: absolute;left: -70px;border: 1px solid #B5076D; border-right: 0px;padding: 10px;background-color: #FFF;}
+        #box div{margin: 10px 0;}
+    </style>
+</head>
+<body>
+    <div id="wrapper">
+            <div id="page-wrap">
+ 
+                    <div id="content">
+ 
+                        <div id="main">
+                                 <h1>HTML Ipsum Presents</h1>
+                                           
+                                <p><strong>Pellentesque habitant morbi tristique</strong> senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. <em>Aenean ultricies mi vitae est.</em> Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, <code>commodo vitae</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.</p>
+
+                                <h2>Header Level 2</h2>
+                                           
+                                <ol>
+                                   <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+                                   <li>Aliquam tincidunt mauris eu risus.</li>
+                                </ol>
+
+                                <blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p></blockquote>
+
+                                <h3>Header Level 3</h3>
+
+                                <ul>
+                                   <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+                                   <li>Aliquam tincidunt mauris eu risus.</li>
+                                </ul>
+
+                                <pre><code>
+                                #header h1 a { 
+                                    display: block; 
+                                    width: 300px; 
+                                    height: 80px; 
+                                }
+                                </code></pre>
+                        </div>
+ 
+                        <div id="sidebar">
+ 
+                        </div>
+                    </div>
+                    <!-- O Conteúdo acaba aqui -->
+            </div>
+            <!-- O page-wrap acaba aqui -->
+    </div>
+    <div id="floating-box">
+                <div id="box">
+                    <!-- Aqui insere o código dos botões -->
+                </div>
+              </div>
+</body>
+</html>
