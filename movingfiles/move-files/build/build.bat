@@ -1,0 +1,2 @@
+dotnet publish "L:\alex.rondao\GIT\xcorplab\move-files\src\movingfiles\movingfiles.csproj" -c Release -f netcoreapp2.2 -r win10-x64 --self-contained false
+move /Y "L:\alex.rondao\GIT\xcorplab\move-files\src\movingfiles\bin\Release\netcoreapp2.2\win10-x64\movingfiles.exe" "L:\alex.rondao\GIT\xcorplab\move-files\build"

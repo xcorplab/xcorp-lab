@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "movingfiles": {
+      "commandName": "Project",
+      "commandLineArgs": "L:\\alex.rondao\\GIT\\xcorplab\\source L:\\alex.rondao\\GIT\\xcorplab\\destination"
+    }
+  }
+}

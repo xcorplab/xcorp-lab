@@ -1,0 +1,12 @@
+L:\alex.rondao\GIT\xcorplab\move-files\src\movingfiles\bin\Release\netcoreapp2.2\win10-x64\movingfiles.exe
+L:\alex.rondao\GIT\xcorplab\move-files\src\movingfiles\bin\Release\netcoreapp2.2\win10-x64\movingfiles.deps.json
+L:\alex.rondao\GIT\xcorplab\move-files\src\movingfiles\bin\Release\netcoreapp2.2\win10-x64\movingfiles.runtimeconfig.json
+L:\alex.rondao\GIT\xcorplab\move-files\src\movingfiles\bin\Release\netcoreapp2.2\win10-x64\movingfiles.runtimeconfig.dev.json
+L:\alex.rondao\GIT\xcorplab\move-files\src\movingfiles\bin\Release\netcoreapp2.2\win10-x64\movingfiles.dll
+L:\alex.rondao\GIT\xcorplab\move-files\src\movingfiles\bin\Release\netcoreapp2.2\win10-x64\movingfiles.pdb
+L:\alex.rondao\GIT\xcorplab\move-files\src\movingfiles\obj\Release\netcoreapp2.2\win10-x64\movingfiles.csprojAssemblyReference.cache
+L:\alex.rondao\GIT\xcorplab\move-files\src\movingfiles\obj\Release\netcoreapp2.2\win10-x64\movingfiles.csproj.CoreCompileInputs.cache
+L:\alex.rondao\GIT\xcorplab\move-files\src\movingfiles\obj\Release\netcoreapp2.2\win10-x64\movingfiles.AssemblyInfoInputs.cache
+L:\alex.rondao\GIT\xcorplab\move-files\src\movingfiles\obj\Release\netcoreapp2.2\win10-x64\movingfiles.AssemblyInfo.cs
+L:\alex.rondao\GIT\xcorplab\move-files\src\movingfiles\obj\Release\netcoreapp2.2\win10-x64\movingfiles.dll
+L:\alex.rondao\GIT\xcorplab\move-files\src\movingfiles\obj\Release\netcoreapp2.2\win10-x64\movingfiles.pdb
