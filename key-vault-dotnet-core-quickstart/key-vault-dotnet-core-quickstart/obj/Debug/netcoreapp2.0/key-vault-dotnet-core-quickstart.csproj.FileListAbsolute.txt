@@ -1,0 +1,11 @@
+L:\alex.rondao\GIT\Azure-Samples\key-vault-dotnet-core-quickstart\key-vault-dotnet-core-quickstart\bin\Debug\netcoreapp2.0\key-vault-dotnet-core-quickstart.deps.json
+L:\alex.rondao\GIT\Azure-Samples\key-vault-dotnet-core-quickstart\key-vault-dotnet-core-quickstart\bin\Debug\netcoreapp2.0\key-vault-dotnet-core-quickstart.runtimeconfig.json
+L:\alex.rondao\GIT\Azure-Samples\key-vault-dotnet-core-quickstart\key-vault-dotnet-core-quickstart\bin\Debug\netcoreapp2.0\key-vault-dotnet-core-quickstart.runtimeconfig.dev.json
+L:\alex.rondao\GIT\Azure-Samples\key-vault-dotnet-core-quickstart\key-vault-dotnet-core-quickstart\bin\Debug\netcoreapp2.0\key-vault-dotnet-core-quickstart.dll
+L:\alex.rondao\GIT\Azure-Samples\key-vault-dotnet-core-quickstart\key-vault-dotnet-core-quickstart\bin\Debug\netcoreapp2.0\key-vault-dotnet-core-quickstart.pdb
+L:\alex.rondao\GIT\Azure-Samples\key-vault-dotnet-core-quickstart\key-vault-dotnet-core-quickstart\obj\Debug\netcoreapp2.0\key-vault-dotnet-core-quickstart.csprojAssemblyReference.cache
+L:\alex.rondao\GIT\Azure-Samples\key-vault-dotnet-core-quickstart\key-vault-dotnet-core-quickstart\obj\Debug\netcoreapp2.0\key-vault-dotnet-core-quickstart.csproj.CoreCompileInputs.cache
+L:\alex.rondao\GIT\Azure-Samples\key-vault-dotnet-core-quickstart\key-vault-dotnet-core-quickstart\obj\Debug\netcoreapp2.0\key-vault-dotnet-core-quickstart.AssemblyInfoInputs.cache
+L:\alex.rondao\GIT\Azure-Samples\key-vault-dotnet-core-quickstart\key-vault-dotnet-core-quickstart\obj\Debug\netcoreapp2.0\key-vault-dotnet-core-quickstart.AssemblyInfo.cs
+L:\alex.rondao\GIT\Azure-Samples\key-vault-dotnet-core-quickstart\key-vault-dotnet-core-quickstart\obj\Debug\netcoreapp2.0\key-vault-dotnet-core-quickstart.dll
+L:\alex.rondao\GIT\Azure-Samples\key-vault-dotnet-core-quickstart\key-vault-dotnet-core-quickstart\obj\Debug\netcoreapp2.0\key-vault-dotnet-core-quickstart.pdb
