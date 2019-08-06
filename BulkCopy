@@ -1,0 +1,16 @@
+
+using (SqlConnection cnn = new SqlConnection("ConnectionString"))
+{
+	cnn.Open();
+	
+	var transaction = cnn.BeginTransaction();
+	using (SqlBulkCopy bulkCopy = new SqlBulkCopy(cnn, SqlBulkCopyOptions.Default, transaction))
+	{
+		bulkCopy.BatchSize = 5000;
+		bulkCopy.DestinationTableName = "TableName";
+		bulkCopy.WriteToServer(dt);
+		
+		transaction.Commit();
+	}
+	cnn.Close();
+}
