@@ -1,0 +1,43 @@
+{
+	"Id": "",
+	"Cliente": "",
+	"Unidade": "",
+	"Aplicacao": "",
+	"Movimento": "",
+	"Documento":{
+		"Nome": "",
+		"Identidade": "",
+		"Identificador": "",
+		"Email": "",
+		"Telefone": "",
+		"Mensagens": [
+			{
+				"BatchId": "",
+				"Referencia": "",
+				"Via": "email",
+				"Destinatario": "",
+				"Remetente": "",
+				"Assunto": "",
+				"Corpo": "",
+				"Anexo": "",
+				"Agendamento": ""
+			},
+			{
+				"BatchId": "",
+				"Referencia": "",
+				"Via": "whatsapp",
+				"Destinatario": "",
+				"Template": "",
+				"Agendamento": ""
+			},
+			{
+				"BatchId": "",
+				"Referencia": "",
+				"Via": "sms",
+				"Destinatario": "",
+				"Corpo": "",
+				"Agendamento": ""
+			}
+		]
+	}
+}
